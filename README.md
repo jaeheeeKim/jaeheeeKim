@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 > ## 👩‍💻 About me
 > - AWS 클라우드 기반 자바 웹 개발 교육 과정(23.2-23.7, 6개월)
->> - Mini Project 코딩의 숲(10일)
+>  - Mini Project 코딩의 숲(10일)
 >> - Final Project 보드게임 복합 커뮤니티(1개월 3주)
 
-> skils
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeheeeKim&layout=compact)](https://github.com/jaeheeeKim/github-readme-stats)
+> - skils
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeheeeKim&layout=compact)](https://github.com/jaeheeeKim/github-readme-stats)
