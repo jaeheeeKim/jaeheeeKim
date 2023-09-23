@@ -13,19 +13,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=jaehee👏)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&text=jaehee👏)
 > ## 👩‍💻 About me
 > - 📚 자바 웹 개발 교육 과정(23.2-23.7, 6개월)
 >   - Mini Project 코딩의 숲(10일)
 >   - Final Project 보드게임 복합 커뮤니티(1개월 3주)
 
 > - Tech Stack
+> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 > <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white">
 > <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=Java&logoColor=white">
 > <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 > <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 > <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+
+> - Learning
+> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
+> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> 
+> <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/>
 
 > - skils
 > 
