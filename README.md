@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=jaehee👏)
 > ## 👩‍💻 About me
-> - 📚 AWS 클라우드 기반 자바 웹 개발 교육 과정(23.2-23.7, 6개월)
+> - 📚 자바 웹 개발 교육 과정(23.2-23.7, 6개월)
 >   - Mini Project 코딩의 숲(10일)
 >   - Final Project 보드게임 복합 커뮤니티(1개월 3주)
 
@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 > <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 > <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 > <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-> <br>
-> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
-> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
 
 > - skils
 > 
