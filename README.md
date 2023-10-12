@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&text=jaehee👏)
 > ## 👩‍💻 About me
-> - 📚 자바 웹 개발 교육 과정(23.2-23.7, 6개월)
+> - 📚  AWS 기반 자바 웹 개발 교육 과정(23.2-23.7, 6개월)
 >   - Mini Project 코딩의 숲(10일)
 >   - Final Project 보드게임 복합 커뮤니티(1개월 3주)
 
