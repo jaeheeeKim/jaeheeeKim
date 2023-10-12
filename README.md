@@ -33,8 +33,6 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white">
  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> 
  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white">
-
-<h3> - skils </h3>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeheeeKim&layout=compact)](https://github.com/jaeheeeKim/github-readme-stats)
 </p>
+
 
