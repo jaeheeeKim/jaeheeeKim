@@ -19,21 +19,22 @@ Here are some ideas to get you started:
 >   - Mini Project 코딩의 숲(10일)
 >   - Final Project 보드게임 복합 커뮤니티(1개월 3주)
 
-> - Tech Stack
-> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-> <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white">
-> <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=Java&logoColor=white">
-> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<h3> - Tech Stack </h3>
+<p>
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
+</p>
+<h3> - Learning </h3>
+<p>
+ <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white">
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white">
 
-> - Learning
-> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
-> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> 
-> <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/>
-
-> - skils
-> 
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeheeeKim&layout=compact)](https://github.com/jaeheeeKim/github-readme-stats)
-
+<h3> - skils </h3>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeheeeKim&layout=compact)](https://github.com/jaeheeeKim/github-readme-stats)
+</p>
 
