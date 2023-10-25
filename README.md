@@ -15,16 +15,6 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=160&text=JaeheeKim&color=auto)
 
-<div>
-<h3>📞Contact me</h3>
-<a href="https://velog.io/@jh960902">
-<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-<a href="jh960905@gamil.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</div>
-
-<br><br>
-
 > ## 👩‍💻 About me
 > - 📚  AWS 기반 자바 웹 개발 교육 과정(23.2-23.7, 6개월)
 >   - Mini Project 코딩의 숲(10일)
@@ -51,4 +41,12 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white">
 </p>
 
+<br>
 
+<div>
+<h3>📞Contact me</h3>
+<a href="https://velog.io/@jh960902">
+<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="jh960905@gamil.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</div>
