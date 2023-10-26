@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">&nbsp
 </p>
 
 <br>
