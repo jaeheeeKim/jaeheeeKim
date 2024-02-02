@@ -29,8 +29,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">&nbsp
 </p>
 
 <br>
@@ -40,6 +39,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white">
  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> 
  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white">
+ <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=black"/>
 </p>
 
 <br>
